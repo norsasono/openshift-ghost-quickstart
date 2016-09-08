@@ -3,9 +3,9 @@
     "description" : "Openshift Ghost Quickstart (SQLite)",
     "repository": {
         "type": "git",
-        "url": "git://github.com/openshift-quickstart/openshift-ghost-quickstart.git"
+        "url": "git://github.com/MunGell/openshift-ghost-quickstart.git"
     },
-    "bugs": "https://github.com/openshift-quickstart/openshift-ghost-quickstart/issues",
+    "bugs": "https://github.com/MunGell/openshift-ghost-quickstart/issues",
     "main": "index.js",
     "scripts": {
         "start": "node index"
@@ -15,6 +15,6 @@
         "iojs": "~1.2.0"
     },
     "dependencies": {
-        "ghost": "^0.9.0"
+        "ghost": "^0.10.0"
     }
 }
